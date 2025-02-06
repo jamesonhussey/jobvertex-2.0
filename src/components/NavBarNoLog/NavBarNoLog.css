@@ -1,0 +1,17 @@
+.logo-image {
+    width: 35px;
+    border-radius: 50%;
+}
+.logo-name, .logo-name:visited {
+    color: black;
+    text-decoration: none;
+    font-weight:700;
+}
+
+#navigation-bar {
+    background-color: white !important;
+}
+
+.bg-body-tertiary {
+    background-color: white !important;
+}
